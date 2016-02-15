@@ -48,4 +48,5 @@ suresh narra	                API development,testing	         Web API,   checkin
 
 # RESEARCH QUESTION
 1.why did we use eclipse tool instead of netbeans?
-2.why don not we put chat tool?
+
+2.why do not we keep chat tool?
